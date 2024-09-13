@@ -9,6 +9,7 @@ import pandas as pd
 # Path to your webdriver (modify with your path)
 driver_path = '/path/to/chromedriver'  # Example for ChromeDriver
 
+ ![ScrapeScrape](scrapescrape.jpeg)
  
 # Use Service object to specify the driver path
 service = Service(driver_path)
@@ -37,7 +38,14 @@ for job_card in job_cards:
         # Extract job title
         title = job_card.find_element(By.CLASS_NAME, 'title').text
         job_titles.append(title)
-        
+   <!-- python code block -->
+
+```python
+
+replaceme
+
+```
+      
         # Extract company name
         company = job_card.find_element(By.CLASS_NAME, 'company').text
         companies.append(company)
