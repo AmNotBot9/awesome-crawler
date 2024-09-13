@@ -9,7 +9,6 @@ import pandas as pd
 # Path to your webdriver (modify with your path)
 driver_path = '/path/to/chromedriver'  # Example for ChromeDriver
 
- ![ScrapeScrape](scrapescrape.jpeg)
  
 # Use Service object to specify the driver path
 service = Service(driver_path)
