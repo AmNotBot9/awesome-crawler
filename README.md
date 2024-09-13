@@ -5,7 +5,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 import time
 import pandas as pd
+
 ![brain1](brain1.jpeg)
+
 # Path to your webdriver (modify with your path)
 driver_path = '/path/to/chromedriver'  # Example for ChromeDriver
 
