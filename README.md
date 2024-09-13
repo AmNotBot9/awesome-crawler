@@ -8,8 +8,7 @@ import pandas as pd
 
 # Path to your webdriver (modify with your path)
 driver_path = '/path/to/chromedriver'  # Example for ChromeDriver
-![Brain1](brain1.jpeg)
- 
+
 # Use Service object to specify the driver path
 service = Service(driver_path)
 driver = webdriver.Chrome(service=service)
