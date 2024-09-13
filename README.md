@@ -63,10 +63,10 @@ driver.quit()
 df = pd.DataFrame({
     'Job Title': job_titles,
     'Company': companies,
-    ![brain1](brain1.jpeg)
-    'Location': locations
+     'Location': locations
 })
 
 # Save the DataFrame to an Excel file
 df.to_excel('indeed_jobs_cybersecurity.xls', index=False)
 print("Data saved to 'indeed_jobs_cybersecurity.xls'")
+   
