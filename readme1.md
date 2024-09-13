@@ -1,3 +1,6 @@
+![yqi-sideview-big-buddha-compressed](https://github.com/user-attachments/assets/59c6e52f-5025-47c5-bfb3-5a5ec4a0e303)
+
+
 # Entry Level Cybersecutiry Jobs
 
 from selenium import webdriver
