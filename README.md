@@ -63,6 +63,7 @@ driver.quit()
 df = pd.DataFrame({
     'Job Title': job_titles,
     'Company': companies,
+    ![brain1](brain1.jpeg)
     'Location': locations
 })
 
